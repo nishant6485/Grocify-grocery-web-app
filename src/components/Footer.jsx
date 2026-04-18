@@ -8,6 +8,7 @@ import {
   FaMapMarkerAlt,
   FaPhone,
   FaEnvelope,
+  FaLinkedin,
 } from "react-icons/fa";
 
 const Footer = () => {
@@ -29,10 +30,10 @@ const Footer = () => {
             </p>
             <div className="flex gap-3 mt-4">
               <a
-                href="#"
+                href="https://www.linkedin.com/in/nishantagarwal28/"
                 className="bg-gray-800 p-2 rounded-full hover:bg-primary transition"
               >
-                <FaFacebookF />
+                <FaLinkedin />
               </a>
               <a
                 href="#"
@@ -41,13 +42,13 @@ const Footer = () => {
                 <FaTwitter />
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/nishantagarwal6485/"
                 className="bg-gray-800 p-2 rounded-full hover:bg-primary transition"
               >
                 <FaInstagram />
               </a>
               <a
-                href="#"
+                href="https://www.youtube.com/@NishantsVault"
                 className="bg-gray-800 p-2 rounded-full hover:bg-primary transition"
               >
                 <FaYoutube />
@@ -123,7 +124,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-2">
                 <FaEnvelope className="text-primary" />
-                <span>hello@grocify.com</span>
+                <span>nishant9027834292@gmail.com</span>
               </li>
             </ul>
           </div>

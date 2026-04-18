@@ -24,12 +24,12 @@ const Contact = () => {
     {
       icon: <FaMapMarkerAlt />,
       title: "Our Location",
-      text: "123 Market Street, Green City, IN 560001",
+      text: "123 ABES Engineering College, Ghaziabad, IN 201009",
     },
     {
       icon: <FaPhone />,
       title: "Phone Number",
-      text: "+91 98765 43210",
+      text: "+91 90278 34292",
     },
     {
       icon: <FaEnvelope />,
